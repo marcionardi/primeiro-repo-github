@@ -13,6 +13,12 @@ Teste direto na main
 Teste direto na main
 Alteração via PR
 
+## Configurações do Sistema
+- Ambiente: produção
+- Porta: 8080
+- Timeout: 30s
+- Max connections: 1000
+
 ## Instruções de Deploy v2
 1. Executar script `deploy-v2.sh`
 2. Verificar logs em `/var/log/deploy.log`
