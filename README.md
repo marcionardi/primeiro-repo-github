@@ -22,4 +22,4 @@ Alteração via PR
 ## Instruções de Deploy v2
 1. Executar script `deploy-v2.sh`
 2. Verificar logs em `/var/log/deploy.log`
-3. Validar endpoints de saúde
+3. Validar endpoints de saúde- Health check: /health
